@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>mohammad shrouqi </title>
+</head>
+<body bgcolor="red"  text="blue">
+<h1 align="center">MOHAMMAD ALSHROUQI</h1>
+<H3>This is a picture of my certificate :</H3>
+<img src="professional.jpg" alt="paje not found" width="400px" >
+<H1>My Certification : </H1>
+<ol><br>
+	<li>CCNA</li>
+	<li>CCNP Security</li>
+	<li>VOIP</li>
+</ol>
+<h2>my favorite food : </h2>
+<ul>
+	<li>pizza</li>
+	<li>manssaf</li>
+	<li>kabbab</li>
+</ul>
+<table border="1"
+width="500px"
+align="center">
+
+	<tr>
+		<th>name</th>
+		<th>email</th>
+	</tr>
+	<tr>
+		<td>mohammad</td>
+		<td>mohshrouqis@gmail.com</td>
+	</tr>
+</table>
+<a href="https://www.facebook.com/"><img src="" alt="face book"></a><br>
+<form><label for=""> your name</label></form><br>
+<input type="text" name="kk" id="kk">
+<label for=""><input type="text" name="yy"
+	id="yy"></label>
+	<input type="submit" name="submit" value="submit">
+
+
+</body>
+</html>
